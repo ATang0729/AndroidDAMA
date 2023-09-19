@@ -7,3 +7,6 @@ a smart privacy coding Android application powered by AI
 - [ ] develop the Android application and release the first version to the public
 - [ ] improve the app's func occording to the feedbacks
 - [ ] embedding multimodal LLM in the APP so that users can use voice or text to command the system to automatically mask the private content
+
+## 🚗Work flow
+![Business Process Chart](img/业务流程图.png)
