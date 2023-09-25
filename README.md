@@ -14,3 +14,8 @@ a smart privacy coding Android application powered by AI
     - [ ] it's assumed that the app can deal with any type, any scene of images from any apps
 ## 🚗Work flow 
 ![Business Process Chart](img/业务流程图.png)
+
+## Current Path to Achievement 
+- [ ] use light model that can easily run on mobile phones (e.g. mobilevit, mobile-net, shuffle-net) to automatically detect the content to be masked
+- [ ] use fast-sam model to assist users mask privacy in a semi-automatic form
+- [ ] (further plan) achieve open-Vocabulary object detection on mobile phones
