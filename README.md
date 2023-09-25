@@ -15,7 +15,12 @@ a smart privacy coding Android application powered by AI
 ## 🚗Work flow 
 ![Business Process Chart](img/业务流程图.png)
 
-## Current Path to Achievement 
+## Current Work
+### Path to Achievement 
 - [ ] use light model that can easily run on mobile phones (e.g. mobilevit, mobile-net, shuffle-net) to automatically detect the content to be masked
 - [ ] use fast-sam model to assist users mask privacy in a semi-automatic form
 - [ ] (further plan) achieve open-Vocabulary object detection on mobile phones
+
+### Things to be figured out
+- [x] how to program a mobile phone APP with pyhton [[*solution: use Kivy*](https://zhuanlan.zhihu.com/p/200897880)]
+- [ ] how to call gpu on mobile phones (Android & iOS, iPadOS etc.) [[*Reference: Pytorch Android 是如何调用手机gpu加速计算的？*](https://www.zhihu.com/question/404237480/answer/2926029240?utm_id=0)]
